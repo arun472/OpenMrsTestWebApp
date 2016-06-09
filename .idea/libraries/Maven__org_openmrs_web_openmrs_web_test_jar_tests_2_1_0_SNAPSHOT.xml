@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.openmrs.web:openmrs-web:test-jar:tests:2.1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/openmrs/web/openmrs-web/2.1.0-SNAPSHOT/openmrs-web-2.1.0-20160606.210253-108-tests.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/openmrs/web/openmrs-web/2.1.0-SNAPSHOT/openmrs-web-2.1.0-20160606.210253-108-test-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/openmrs/web/openmrs-web/2.1.0-SNAPSHOT/openmrs-web-2.1.0-20160606.210253-108-test-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
